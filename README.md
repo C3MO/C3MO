@@ -5,7 +5,7 @@
 </center>
 <br />
 <p style="text-align: center;">
-<img alt="Bild" src="/home/endervouros/Dokumente/Github_README/pictures/giphy (1).gif"/>
+<img alt="Bild" src="https://github.com/C3MO/Profile/blob/master/pictures/giphy%20(1).gif"/>
 </p>
 
 ---
