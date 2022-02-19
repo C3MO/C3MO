@@ -1,17 +1,24 @@
-<center>
+</center>
+<br />
+<div id="Title" align="center">
+ 
+  # Hi there, I'm Cem! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+  
+</div>
 
-# Hi there, I'm Cem! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 </center>
 <br />
-<p style="text-align: center;">
-<img alt="Bild" src="https://github.com/C3MO/Profile/blob/master/pictures/giphy%20(1).gif"/>
-</p>
+<div id="header" align="center">
+  <img alt="Bild" src="https://github.com/C3MO/Profile/blob/master/pictures/giphy%20(1).gif"/>
+</div>
+
+
 
 ---
 <br />
-<center>
-
+<div id="description" align="center">
+ 
 ### I'm a Servicetechnician, Dachs-Dog whisperer and Full-Stack Developer!!
 <br />
 
@@ -20,31 +27,32 @@
  ⚡  I’m currently learning web3
 
  💬 &nbsp;Ask me about anything related to Java/Python or Django/Flask
-</center>
+</div>
 <br />
 
 ---
 <br />
 
-<center>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div id="status" align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
 <img alt="C3MO's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=C3MO&show_icons=true&hide_border=false&theme=dracula" />
 </a>
-</center>
+   </div>
+
 <br />
 
 ---
 <br />
 
-<center>
+<div id="Wakatime" align="center">
 
 📊 &nbsp;**This week I spent my time on**
 
 ![C3MO's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=c3mo)</a>
 
-</center>
+</div>
 
-<center>
+<div id="more description" align="center">
 <details>
   <summary><b>(Icon)&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
@@ -155,4 +163,4 @@
 ---
 
 <br/>
-</center>
+</div>
