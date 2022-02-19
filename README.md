@@ -34,7 +34,6 @@
 <br />
 
 <div id="status" align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
 <img alt="C3MO's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=C3MO&show_icons=true&hide_border=false&theme=dracula" />
 </a>
    </div>
