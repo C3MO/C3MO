@@ -54,7 +54,7 @@
 
 <div id="more description" align="center">
 <details>
-  <summary><b>(Icon)&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <summary><b>&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
 
@@ -78,7 +78,7 @@
 </details>
 <br/>
 <details>
-  <summary><b>(Icon)&nbsp;Languages&nbsp;</b></summary>
+  <summary><b>Languages&nbsp;</b></summary>
   <br/>
 
 <br />
@@ -114,7 +114,7 @@
 </details>
 <br/>
 <details>
-  <summary><b>(Icon)&nbsp;Creative Tools&nbsp;</b></summary>
+  <summary><b>Creative Tools&nbsp;</b></summary>
   <br/>
 <br />
 
