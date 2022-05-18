@@ -22,21 +22,15 @@
 ### I'm a Servicetechnician, Dachs-Dog whisperer and Full-Stack Developer!!
 <br />
 
- 🌱 I’m currently working on something cool 
+ 🌱 I’m currently working for [pr0kommunal](https://prokommunal.com/) as an Fullstack Developer
 
- ⚡  I’m currently learning web3
+ ⚡  I’m currently learning web3, pyscript and rust 
 
  💬 &nbsp;Ask me about anything related to Java/Python or Django/Flask
 </div>
 <br />
 
----
-<br />
 
-<div id="status" align="center">
-<img alt="C3MO's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=C3MO&show_icons=true&hide_border=false&theme=dracula" />
-</a>
-   </div>
 
 <br />
 
