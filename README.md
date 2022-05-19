@@ -39,7 +39,7 @@
 
 <div id="Wakatime" align="center">
 
-📊 &nbsp;**This week I spent my time on**
+📊 &nbsp;**The time that i spent on**
 
 ![C3MO's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=c3mo)</a>
 
