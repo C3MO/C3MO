@@ -2,7 +2,7 @@
 <br />
 <div id="Title" align="center">
  
-  # Hi there, I'm Cem! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+  # Hi there, I'm Cem!
   
 </div>
 
