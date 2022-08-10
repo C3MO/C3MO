@@ -19,7 +19,7 @@
 <br />
 <div id="description" align="center">
  
-### I'm a Servicetechnician, Dachs-Dog whisperer and Full-Stack Developer!!
+### I'm a Servicetechnician, Dachs-hund whisperer and Full-Stack Developer!!
 <br />
 
  🌱 I’m currently working for [pr0kommunal](https://prokommunal.com/) as an Fullstack Developer
