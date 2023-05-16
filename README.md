@@ -39,7 +39,8 @@
 
 <div id="Wakatime" align="center">
 
-📊 &nbsp;**The time that i spent on**
+📊 &nbsp;**The time that i spent on (not live tracking)** <br>
+ real stats: [Profile for the realtime stats](https://wakatime.com/@C3MO)
 
 ![C3MO's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=c3mo)</a>
 
