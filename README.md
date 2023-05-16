@@ -39,10 +39,11 @@
 
 <div id="Wakatime" align="center">
 
+
+📊 &nbsp;**The time that i spent on coding** <br>
+ 
  [![wakatime](https://wakatime.com/badge/user/33d7ddf9-f52a-4589-b7cc-572057052015.svg)](https://wakatime.com/@33d7ddf9-f52a-4589-b7cc-572057052015)
  <br>
-📊 &nbsp;**The time that i spent on (not live tracking)** <br>
- real stats: [Profile for the realtime stats](https://wakatime.com/@C3MO)
 
 ![C3MO's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=c3mo)</a>
 
