@@ -15,7 +15,7 @@
 
 *   🚀 Currently building awesome things as a **Full-Stack Developer** at [**pr0kommunal**](https://prokommunal.com/).
 *   🌱 Always learning! Right now exploring the worlds of **LLM and Machine learning**.
-*   💬 Happy to chat about **Java and Python **, or anything tech-related!
+*   💬 Happy to chat about **Java and Python**, or anything tech-related!
 *   📫 How to reach me: **cem_saygili21@hotmail.de** 
 
 ---
