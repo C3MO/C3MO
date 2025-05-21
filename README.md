@@ -64,12 +64,6 @@
     <img src="https://wakatime.com/badge/user/33d7ddf9-f52a-4589-b7cc-572057052015.svg" alt="Total time coded since start date" />
   </a>
   <br/>
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=C3MO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Cem's GitHub stats" />
-  <br/>
-  <!-- Top Langs Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C3MO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Cem's Top Languages" />
-  <br/>
   <!-- WakaTime Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=c3mo&layout=compact&theme=tokyonight&hide_border=true" alt="Cem's WakaTime stats" />
 </p>
